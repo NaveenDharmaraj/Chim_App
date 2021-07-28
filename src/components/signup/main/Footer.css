@@ -1,0 +1,49 @@
+.linkName a{
+    text-decoration: none;
+    color: rgb(134, 74, 74) !important;
+}
+
+li{
+    list-style-type: none;
+    padding-top: 10px;
+}
+h5{
+    margin-left: 50px !important;
+}
+.footerRow{
+    background-color: rgb(242, 247, 254);
+    line-height: 1.37em;
+    height: 500px;
+}
+.myFooter{
+    padding-top: 50px;
+}
+.bestNews{
+    font-size: 18px;
+    font-weight: 600;
+    color: #393939;
+}
+.subscribe{
+    color: #9142A1;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.ui.input.inputBox input{
+    border-radius: 20px;
+    width: 300px;
+}
+.ui.primary.button.subsribeButton{
+    border-radius: 20px;
+    background-color: #055CE5;
+}
+.footerPart{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+hr {
+    height: 0px;
+    border: none;
+    border-top: 1px solid rgb(233, 216, 216);
+}
+

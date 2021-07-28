@@ -1,0 +1,18 @@
+.selected{
+    color: black;
+    border: 5px solid rgb(145, 38, 207);
+    width: 200px;
+    height: 60px;
+}
+.unselected{
+    color: gray;
+    border: 2px solid gray;
+    background-color: white;
+    width: 200px;
+    height: 60px;
+}
+.ui.button.mainButton, .ui.button.mainButton:hover {
+    background-color: #055CE5;
+    border-radius: 20px;
+    color: white;
+}
